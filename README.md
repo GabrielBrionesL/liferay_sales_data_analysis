@@ -1,2 +1,2 @@
-# liferay_sales_data_analysis
+# Sales Data Analysis 
 Practical task for Liferay
